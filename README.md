@@ -1,6 +1,6 @@
 FluidLightbox
 =============
-This project was done to resolve a proposed challenge. Here are the specifications
+This project was done to resolve a proposed challenge. Please use Mozilla Firefox to view. Here are the specifications
 
 - The page that the lightbox lives on should be 2000px tall. (Again, save some time and just make it 2000px of whitespace.)
 
